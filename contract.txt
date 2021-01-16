@@ -1,16 +1,27 @@
-0. "You" is the employer, and all relevant managerial figures, "I"/"me"/"my" is the employee to whom this contract regards.
+0. "You"/"your" is the employer, and all relevant managerial figures, "I"/"me"/"my" is the employee to whom this contract regards.
 1. A change of my personal identity does not facilitate a breakage of this contract, as far as law is concerned I am still me.
 2. This contract may be verbally agreed on, and as such will become binding for the terms of my employment.
 3. Only I may alter the contract, however I am open to discussions, particularly where certain terms may not fit "company culture".
 4. You must not lie.
 5. You must not manipulate.
-6. Upon breach of contract I am allowed to leave with no notice. Such case will remain to be true, so as to not allow manipulation.
-7. You must not abuse terms that could reasonably be considered to be loopholes, that is manipulation.
+6. Upon breach of contract I am allowed to leave with no notice. Such case will remain to be true, so as to respect term 5.
+7. In accordance with term 5, you may not abuse what may be considered loopholes.
 8. Being able to sit down is a basic human right and should not require a medical note. I am disabled, I may not be able to constantly stand up, I will let you know if I feel I need to sit down, you must appropriately facilitate such a basic request.
 9. Upon employment the percentage that my hourly wage is above the minimum hourly wage will be noted, and that percentage must never go down.
-10. The aforementioned percentage must go up by 1% annually as an appreciation of my continued commitment, independent of changes in minimum wage or role.
+10. The aforementioned percentage must go up by at least 1% annually as an appreciation of my continued commitment, independent of changes in minimum wage or role.
 11. I perform much better with the use of my mobile device, I expect you to trust me not to abuse such allowances. As an employee I would hope you place some trust in me, therefore I ask that you trust I would not abuse such permissions, I wish only to perform well at my job, and I feel from past experience that disallowing the use of a mobile device negatively, rather than positively impacts my performance.
 12. If you feel uncomfortable with me using a personal device, you may provide a suitable work device instead.
 13. Such a work device must have the "Android", "BeOS", "BSD", "Haiku OS", "IOS" or "Linux" operating system or any such appropriate choice that may have come to being or become noticeably improved since writing this contract.
-14. Such a work device must not have stopped receiving updates in a way that harms usability, that is manipulation.
-15. Such a work device or the air time or the physical repairs should not incur extra cost to me, I am making an extra allowance on your behalf.
+14. A term 13 device must not have stopped receiving updates in a way that harms usability, that is term 5 violation.
+15. A term 13 device or the air time or the physical repairs should not incur extra cost to me, I am making an extra allowance on your behalf.
+16. Sometimes, being late happens. If I am late I will happily make up the lost time with extra unpaid time.
+17. When I work extra unpaid minutes, those unpaid minutes are accumulated, then my time I was late by is subtracted. If I have remaining unpaid time afterwards then that can be kept and used at a later date, in order to mitigate potential term 5 vectors that would otherwise be open to abuse.
+18. You may not shame me for being later. I do not believe anyone experiences enjoyment from being late, and if someone does, they are not me.
+19. Counting my break as having started before I have even left the "work zone" is term 5 violation, it also puts less-able people at a disadvantage, and may even be illegal.
+20. When I arrive in the building I have started my shift, when I hit the agreed upon end time for my shift I have stopped my shift. Any deviation is equivalent to term 19 violation.
+21. I will not have reduced pay for being late, term 16 should be most agreeable.
+22. Including seconds when assessing whether I'm late is term 5 violation.
+23. My mobile phone has a clock that is in sync with a server relied upon by billions of people, it is not "wrong".
+24. If you disagree with term 23's statement suggested resolutions include: acquiring more reliable clocks, shifting my start time by a few minutes to match expectations, getting the workplace's localised time-zone to be officially recognised, finding a way to set up a time server that my phone can sync up to
+25. If enacting term 24's second suggestion, you must equally shift my end time
+26. If enacting term 24's third or fourth suggestion, my start and end time must still be based on the GMT+00 time-zone, an internationally recognised standard, and the only one law will acknowledge.
